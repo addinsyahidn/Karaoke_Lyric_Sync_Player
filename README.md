@@ -1,1 +1,10 @@
-# Karaoke_Lyric_Sync_Player
+Nama Kelompok : Aseli Bingung <br><br>
+Anggota : 
+<ul>
+  <li>251401011	Friska Fadillah Simatupang</li>
+  <li>251401017	Muhammad Fadlan Nasution</li>
+  <li>251401068	Addin Syahid Nugraha</li>
+  <li>251401074	Rizqa Faiza Raihanah</li>
+</ul>
+<br>
+Judul : Karaoke Lyric Sync Player
