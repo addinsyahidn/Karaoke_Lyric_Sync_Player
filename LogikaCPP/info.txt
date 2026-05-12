@@ -1,0 +1,4 @@
+Tata Cara Pengisian:
+1. Tambahkan folder
+2. Ubah nama folder menjadi nama logika
+3. Isi folder baru dengan file-file yang dibutuhkan, cth: .cpp, .json, dll
